@@ -55,11 +55,11 @@ const GLOBAL_CONFIG = {
   /**
    * 博客名称
    */
-  BLOG_NAME: "EsunR-Blog",
+  BLOG_NAME: "TXの小站",
   /**
    * 个人博客链接
    */
-  BLOG_URL: "https://blog.esunr.xyz",
+  BLOG_URL: "https://blog.1919801.xyz",
   /**
    * 指定中心 LOGO 图片地址
    */
@@ -67,15 +67,15 @@ const GLOBAL_CONFIG = {
   /**
    * 个人 Github 链接
    */
-  GITHUB_URL: "https://github.com/EsunR",
+  GITHUB_URL: "https://github.com/txyyddss",
   /**
    * 背景图片地址
    */
-  BACKGROUND_IMG_URL: "https://api.dujin.org/bing/1920.php",
+  BACKGROUND_IMG_URL: "https://img.1919801.xyz/file/AgACAgUAAyEGAASJOwb3AAMcaBdFfLJ6AmKMQ9JSwv_kscizJMQAArvFMRsrB7lUweB1H14adcMBAAMCAAN3AAM2BA.png",
   /**
    * ICP 备案号，留空不显示
    */
-  ICP: "京ICP证000001号",
+  ICP: "京ICP证114514号",
   ICP_URL: "https://beian.miit.gov.cn/",
   FOOTER_INFO: true,
   /**
@@ -104,9 +104,9 @@ const GLOBAL_CONFIG = {
    * 网站 Title Keywords Description 的配置，用于 SEO
    */
   TKD: {
-    title: "My Blog Index",
+    title: "TX Index",
     keywords: "Blog, Index, Index Page",
-    description: "This is my personal blog index page.",
+    description: "This is my personal index page.",
   },
 };
 
