@@ -1,25 +1,25 @@
 /** Website 分类配置 */
 const WEBSITE_SORTS: WebsiteSort[] = [
   {
-    title: "示例分类1",
+    title: "Minecraft Server",
     sites: [
       {
-        title: "主标题",
-        url: "http://www.your-web-page.com/",
-        icon: "",
-        color: "#0171CD",
+        title: "Github Page",
+        description: "服务器Github项目地址",
+        url: "https://github.com/txyyddss/txmcsv/",
+        icon: "https://img.1919801.xyz/file/AgACAgUAAyEGAASJOwb3AAMZaBdCpZe7X8I0xC72H6HSPOvAWxgAAq3FMRsrB7lUaNvrog1LFc0BAAMCAANtAAM2BA.png",
       },
       {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
-        icon: "",
+        title: "在线地图",
+        description: "服务器3D在线地图",
+        url: "http://map.1919801.xyz/",
+        icon: "https://img.1919801.xyz/file/BQACAgUAAyEGAASJOwb3AAMaaBdC80lNx_7ZbtxM4d_08aeFjZEAAlwUAAIrB7lUP_jVyNc2mes2BA.ico",
       },
       {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
-        icon: "",
+        title: "Wiki",
+        description: "服务器Wiki",
+        url: "https://txyyds.gitbook.io/mtnetwork",
+        icon: "https://img.1919801.xyz/file/AgACAgUAAyEGAASJOwb3AAMbaBdEEz97n8HRlB2h_kabk-vV1lwAArbFMRsrB7lU5JoyB8ImwqwBAAMCAAN4AAM2BA.png",
       },
     ],
   },
