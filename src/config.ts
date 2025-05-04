@@ -57,7 +57,7 @@ const GLOBAL_CONFIG = {
   /**
    * 指定中心 LOGO 图片地址
    */
-  LOGO_URL: "https://img.1919801.xyz/file/BQACAgUAAyEGAASJOwb3AAMdaBdJH1SW2yBVoFG6gz70m_kRPa8AAmAUAAIrB7lUPp31HcR5P5Q2BA.png",
+  LOGO_URL: "https://img.1919801.xyz/file/AgACAgUAAyEGAASJOwb3AAMeaBdKJESqjA2iEGNcOni5M-yr2O0AAsfFMRsrB7lUT0kEmFvRzmgBAAMCAANtAAM2BA.png",
   /**
    * 个人 Github 链接
    */
