@@ -76,15 +76,15 @@ const GLOBAL_CONFIG = {
    * 网站欢迎标语
    */
   SLOGANS: [
-    "欢迎拜访",
-    "歡迎拜訪",
-    "Welcome, my friend!",
-    "訪問へようこそ",
-    "嗨，别来无恙",
-    "不忘初心，一生浪漫",
+    "坐和放宽",
+    "滚回到以前的版本",
+    "做轰！嚓-嚓-嚓推-推的事",
+    "头抬起",
+    "嗨，别来无恙啊",
+    "好东西就要来了！",
     "最近还好吗？",
-    "流星，落花，萤火",
-    "马车越空，晃荡越响",
+    "海内存知己，天涯若比邻",
+    "微软边缘有新面貌！我们走吧",
   ],
   /**
    * Website 分类配置
@@ -100,7 +100,7 @@ const GLOBAL_CONFIG = {
   TKD: {
     title: "TX Index",
     keywords: "Blog, Index, Index Page",
-    description: "This is my personal index page.",
+    description: "My personal index page.",
   },
 };
 
