@@ -75,9 +75,9 @@ const GLOBAL_CONFIG = {
   /**
    * ICP 备案号，留空不显示
    */
-  ICP: "",
-  ICP_URL: "",
-  FOOTER_INFO: false
+  ICP: "114514",
+  ICP_URL: "https://1919801.xyz/",
+  FOOTER_INFO: true
   /**
    * 网站欢迎标语
    */
