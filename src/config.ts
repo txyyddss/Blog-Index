@@ -24,25 +24,19 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     ],
   },
   {
-    title: "示例分类2",
-  },
-  {
-    title: "示例分类3",
-  },
-  {
-    title: "示例分类4",
-  },
-  {
-    title: "示例分类5",
-  },
-  {
-    title: "友情链接",
+    title: "实用工具",
     sites: [
       {
-        title: "EsunR Blog",
-        description: "EsunR 的博客",
-        url: "https://www.esunr.xyz",
-        icon: "https://esunr-image-bed.oss-cn-beijing.aliyuncs.com/logo.jpg",
+        title: "免费图床",
+        description: "TX公益免费图床",
+        url: "https://img.1919801.xyz",
+        icon: "",
+      },
+      {
+        title: "免费节点",
+        description: "复制链接，导入代理软件即可",
+        url: "https://txsub.1919801.xyz/auto",
+        icon: "",
       },
     ],
   },
