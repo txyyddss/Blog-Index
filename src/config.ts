@@ -69,8 +69,8 @@ const GLOBAL_CONFIG = {
   /**
    * ICP 备案号，留空不显示
    */
-  ICP: "京ICP证114514号",
-  ICP_URL: "https://beian.miit.gov.cn/",
+  ICP: "感谢访问！",
+  ICP_URL: "https://1919801.xyz/",
   FOOTER_INFO: true,
   /**
    * 网站欢迎标语
