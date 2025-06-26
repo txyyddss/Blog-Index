@@ -21,6 +21,18 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         url: "https://txyyds.gitbook.io/mtnetwork",
         icon: "https://img.1919801.xyz/file/AgACAgUAAyEGAASJOwb3AAMbaBdEEz97n8HRlB2h_kabk-vV1lwAArbFMRsrB7lU5JoyB8ImwqwBAAMCAAN4AAM2BA.png",
       },
+      {
+        title: "内网穿透",
+        description: "服务器IPV4直连面板",
+        url: "https://v4mc.1919801.xyz/",
+        icon: "https://img.1919801.xyz/file/AgACAgUAAyEGAASJOwb3AAMmaF0nGy9TYHWwwqszaJND2qmkousAAh3FMRuprOhWot6fRNoCsJABAAMCAANtAAM2BA.png",
+      },
+      {
+        title: "Status",
+        description: "服务器状态监控",
+        url: "https://status.1919801.xyz/",
+        icon: "https://img.1919801.xyz/file/AgACAgUAAyEGAASJOwb3AAMnaF0ngB1pL4wCeMOHcyocVHXHnBoAAh_FMRuprOhWiPNrW4qGAAETAQADAgADbQADNgQ.png",
+      },
     ],
   },
   {
