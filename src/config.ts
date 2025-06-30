@@ -50,6 +50,12 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         url: "https://txsub.1919801.xyz/auto",
         icon: "",
       },
+      {
+        title: "TX网盘",
+        description: "TX的Onedrive文件全部公开,可下载",
+        url: "https://pan.1919801.xyz",
+        icon: "",
+      },
     ],
   },
 ];
