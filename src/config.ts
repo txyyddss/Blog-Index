@@ -58,6 +58,17 @@ const WEBSITE_SORTS: WebsiteSort[] = [
       },
     ],
   },
+  {
+    title: "友情链接",
+    sites: [
+      {
+        title: "精苏的博客",
+        description: "一个精苏的博客",
+        url: "https://www,jingsublog.top/",
+        icon: "https://img.1919801.xyz/file/AgACAgUAAyEGAASJOwb3AANLaH-q_0gdatFD1ItPgvAjp0-wOWIAAnfLMRvd-PlXMt6zuENOAAFSAQADAgADeAADNgQ.png",
+      },
+    ],
+  },
 ];
 
 /** Website 配置（2023.3.29 已废弃） */
