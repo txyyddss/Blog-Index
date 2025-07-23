@@ -64,7 +64,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
       {
         title: "精苏的博客",
         description: "一个精苏的博客",
-        url: "https://www,jingsublog.top/",
+        url: "https://www.jingsublog.top/",
         icon: "https://img.1919801.xyz/file/AgACAgUAAyEGAASJOwb3AANLaH-q_0gdatFD1ItPgvAjp0-wOWIAAnfLMRvd-PlXMt6zuENOAAFSAQADAgADeAADNgQ.png",
       },
     ],
@@ -129,7 +129,7 @@ const GLOBAL_CONFIG = {
   TKD: {
     title: "TX Index",
     keywords: "Blog, Index, Index Page",
-    description: "My personal index page.",
+    description: "TX's personal index page.",
   },
 };
 
