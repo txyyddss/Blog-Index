@@ -29,9 +29,15 @@ const WEBSITE_SORTS: WebsiteSort[] = [
       },
       {
         title: "Status",
-        description: "服务器状态监控",
+        description: "服务状态监控",
         url: "https://status.1919801.xyz/",
         icon: "https://img.1919801.xyz/file/AgACAgUAAyEGAASJOwb3AAMnaF0ngB1pL4wCeMOHcyocVHXHnBoAAh_FMRuprOhWiPNrW4qGAAETAQADAgADbQADNgQ.png",
+      },
+      {
+        title: "哪吒面板",
+        description: "服务器状态监控",
+        url: "https://nezha.1919801.xyz/",
+        icon: "https://img.1919801.xyz/file/AgACAgUAAyEGAASJOwb3AAMgaBdLNZqLyb_BZeRq6sN7V1zZMVUAAsrFMRsrB7lUdcSKVLqbfZUBAAMCAANtAAM2BA.png",
       },
     ],
   },
