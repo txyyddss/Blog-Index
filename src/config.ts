@@ -105,7 +105,7 @@ const GLOBAL_CONFIG = {
   /**
    * 背景图片地址
    */
-  BACKGROUND_IMG_URL: "https://img.1919801.xyz/file/AgACAgUAAyEGAASJOwb3AAMcaBdFfLJ6AmKMQ9JSwv_kscizJMQAArvFMRsrB7lUweB1H14adcMBAAMCAAN3AAM2BA.png",
+  BACKGROUND_IMG_URL: "https://img.1919801.xyz/file/AgACAgUAAyEGAASJOwb3AANNaJBzFn6O-u6673eTqWBeq8indL4AAjzIMRuOWoBUXnINetaibi4BAAMCAAN3AAM2BA.jpeg",
   /**
    * ICP 备案号，留空不显示
    */
