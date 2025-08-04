@@ -97,7 +97,7 @@ const GLOBAL_CONFIG = {
   /**
    * 指定中心 LOGO 图片地址
    */
-  LOGO_URL: "https://img.1919801.xyz/file/AgACAgUAAyEGAASJOwb3AAMgaBdLNZqLyb_BZeRq6sN7V1zZMVUAAsrFMRsrB7lUdcSKVLqbfZUBAAMCAANtAAM2BA.png",
+  LOGO_URL: "https://img.1919801.xyz/file/AgACAgUAAyEGAASJOwb3AANPaJB0FruDd678FfrBPET_f00jX5YAAj7IMRuOWoBUyP3lQwQ8v4MBAAMCAANtAAM2BA.jpg",
   /**
    * 个人 Github 链接
    */
@@ -105,7 +105,7 @@ const GLOBAL_CONFIG = {
   /**
    * 背景图片地址
    */
-  BACKGROUND_IMG_URL: "https://img.1919801.xyz/file/AgACAgUAAyEGAASJOwb3AANNaJBzFn6O-u6673eTqWBeq8indL4AAjzIMRuOWoBUXnINetaibi4BAAMCAAN3AAM2BA.jpeg",
+  BACKGROUND_IMG_URL: "https://img.1919801.xyz/file/AgACAgUAAyEGAASJOwb3AANOaJBzekSDYkIAATNc72w-7O8kvuysAAI9yDEbjlqAVK-KzweyGC7JAQADAgADdwADNgQ.jpeg",
   /**
    * ICP 备案号，留空不显示
    */
