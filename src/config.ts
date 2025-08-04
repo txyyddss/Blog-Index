@@ -93,7 +93,7 @@ const GLOBAL_CONFIG = {
   /**
    * 个人博客链接
    */
-  BLOG_URL: "https://blog.1919801.xyz",
+  BLOG_URL: "https://myblog.1919801.xyz",
   /**
    * 指定中心 LOGO 图片地址
    */
