@@ -97,7 +97,7 @@ const GLOBAL_CONFIG = {
   /**
    * 指定中心 LOGO 图片地址
    */
-  LOGO_URL: "https://img.1919801.xyz/file/AgACAgUAAyEGAASJOwb3AANQaJB1gVy_b5zj_P09hHJ5YJioYOQAAj_IMRuOWoBU_E_YH4RgBYABAAMCAANtAAM2BA.png",
+  LOGO_URL: null,
   /**
    * 个人 Github 链接
    */
