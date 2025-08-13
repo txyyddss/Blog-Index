@@ -15,6 +15,12 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         url: "https://nezha.1919801.xyz/",
         icon: "https://img.1919801.xyz/file/AgACAgUAAyEGAASJOwb3AAMgaBdLNZqLyb_BZeRq6sN7V1zZMVUAAsrFMRsrB7lUdcSKVLqbfZUBAAMCAANtAAM2BA.png",
       },
+      {
+        title: "Komari面板",
+        description: "更美观的服务器状态监控",
+        url: "https://tz.1919801.xyz/",
+        icon: "https://tz.1919801.xyz/favicon.ico",
+      },
     ],
   },
   {
